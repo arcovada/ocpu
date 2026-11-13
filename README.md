@@ -34,7 +34,7 @@ OCPU is practically a normal microcontroller. There is no custom silicon: the "u
 | **Author** | Arcovada |
 | **Type** | Microcontroller running math |
 | **Input** | Serial, over USB |
-| **License** | Open (see [License](https://github.com/arcovada/ocpu/LICENSE)) |
+| **License** | Open (see [License](https://github.com/arcovada/ocpu/tree/main?tab=MIT-1-ov-file)) |
 | **Generations** | Open (see [Genarations](https://github.com/arcovada/ocpu/GENERATIONS.md))
 
 ---
