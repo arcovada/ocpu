@@ -6,7 +6,7 @@
 
 ![status](https://img.shields.io/badge/status-experimental-orange)
 ![license](https://img.shields.io/badge/license-MIT-blue)
-![author](https://img.shields.io/badge/made%20by-Arcovada-black)
+[![author](https://img.shields.io/badge/made%20by-Arcovada-black)](https://github.com/arcovada/)
 
 
 </div>
